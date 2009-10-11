@@ -1,0 +1,20 @@
+GSE2034
+SPECint2006
+audioscrobbler
+batting.2008
+births2006.smpl: births2006.idx
+consumption
+doctorates
+dow30
+field.goals
+ham.price.ts
+mort06.smpl
+sanfrancisco.home.sales: sanfranscisco.home.sales.testing.indices sanfrancisco.home.sales.training.indices
+schiller.index: schiller.other.data
+spambase
+team.batting.00to08
+tires.sus
+top.bacon.searching.cities
+toxins.and.cancer
+turkey.price.ts
+yosemite
