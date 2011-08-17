@@ -3,6 +3,7 @@
 \alias{sanfrancisco.home.sales}
 \alias{sanfrancisco.home.sales.testing.indices}
 \alias{sanfrancisco.home.sales.training.indices}
+\alias{sanfranscisco.home.sales.testing.indices}
 \docType{data}
 \title{
 San Franciscio Home Sales Data
